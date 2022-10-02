@@ -1,0 +1,14 @@
+.item-in-cart{
+  position:absolute;
+  bottom: 20px;
+  left: 16px;
+  width: 20px;
+  height: 20px;
+  background-color:red;
+  color: white;
+  font-size:15px;
+  border-radius:15px;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
